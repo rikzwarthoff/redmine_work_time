@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f977181-3d36-4b09-844f-3b8089756497" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/redmine_work_time.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/work_time/_user_month_table.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/work_time/_user_month_table.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,7 @@
       <workItem from="1588842994349" duration="72000" />
       <workItem from="1588843270069" duration="4193000" />
       <workItem from="1588848038833" duration="1427000" />
-      <workItem from="1588850889206" duration="733000" />
+      <workItem from="1588850889206" duration="990000" />
     </task>
     <servers />
   </component>
